@@ -12,7 +12,7 @@ I am a second year student at New York University studying computer science and 
 * ⚡  In my freetime, I love to work out, explore NYC, and play video games (I'm currently into Lego Harry Potter)!
 * logo Websites I found useful!:
     * [Learn X in Y Minutes](https://learnxinyminutes.com/): A website for existing programmers to learn a different language or programming concept with just one subpage!
-    * [Diff Checker](diffchecker.com): A website to check the discrepancies between two different files. Really helpful with source code files! 
+    * [Diff Checker](https://diffchecker.com/): A website to check the discrepancies between two different files. Really helpful with source code files! 
 ### Skills
 
 
