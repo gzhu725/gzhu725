@@ -11,9 +11,8 @@ I am a second year student at New York University studying computer science and 
 * 🧠  I'm learning phaser.io (a 2D framework to make games using JS)
 * ⚡  In my freetime, I love to work out, explore NYC, and play video games (I'm currently into Lego Harry Potter)!
 * logo Websites I found useful!:
-*   *dsjflkjdf
-*   *slkjfdksldf
-*   
+    *
+    *   
 ### Skills
 
 
