@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student at NYU
 -------------------------------
 
-I am a second year student at New York University studying computer science and economics. I am interested in front end development, game development, computer science education. I am currently an instructor for KTBYTE Computer Science Academy teaching Java/Processing to students aged 8-17.
+I am a third year student at New York University studying computer science and economics. I am interested in full stack development, game development, and computer science education. I am currently an instructor for KTBYTE Computer Science Academy teaching Java/Processing to students aged 8-17.
 
 * 🖥️  See my portfolio at [My Personal Website!](http://gzhu725.github.io/Personal-Website/)
 * ✉️  You can contact me at [gloriazhu66@gmail.com](mailto:gloriazhu66@gmail.com)
-* 🧠  I'm learning phaser.io (a 2D framework to make games using JS)
-* ⚡  In my freetime, I love to work out, explore NYC, and play video games (I'm currently into Lego Harry Potter)!
+* 🧠  I'm learning HTML, CSS, Javascript and C! 
+* ⚡  In my freetime, I love to work out, explore NYC, read, and watch TV shows!
 * ❗️ Websites I found useful!:
     * [Learn X in Y Minutes](https://learnxinyminutes.com/): A website for existing programmers to learn a different language or programming concept with just one subpage!
     * [Diff Checker](https://diffchecker.com/): A website to check the discrepancies between two different files. Really helpful with source code files! 
