@@ -6,7 +6,6 @@ Computer Science Student at NYU
 
 I am a third year student at New York University studying computer science and economics. I am interested in full stack development, game development, and computer science education. I am currently an instructor for KTBYTE Computer Science Academy teaching Java/Processing to students aged 8-17.
 
-* 🖥️  See my portfolio at [My Personal Website!](http://gzhu725.github.io/Personal-Website/)
 * ✉️  You can contact me at [gloriazhu66@gmail.com](mailto:gloriazhu66@gmail.com)
 * 🧠  I'm learning HTML, CSS, Javascript and C! 
 * ⚡  In my freetime, I love to work out, explore NYC, read, and watch TV shows!
