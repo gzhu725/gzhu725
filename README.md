@@ -2,7 +2,7 @@
 
 I am a rising senior at NYU studying Computer Science and Economics. 
 
-I am working as a BIM Web Developer intern for WSP and I am also a hackNY fellow this summer! I also teach classes for computer science at KTBYTE. I am passionate about web development, full stack development, and accessible computer science education.
+I am passionate about web development, full stack development, and accessible computer science education.
 
 In my free time, I love to listen to music, make covers on Garageband, explore NYC, and exercise. 
 
