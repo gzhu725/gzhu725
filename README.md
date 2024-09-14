@@ -1,6 +1,6 @@
 # Hi! I'm Gloria :)
 
-I am a rising senior at NYU studying Computer Science and Economics. 
+I am a senior at NYU studying Computer Science and Economics. 
 
 I am passionate about web development, full stack development, and accessible computer science education.
 
